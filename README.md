@@ -10,7 +10,6 @@ Explain: this is the environment variable called FLASK_APP. Its value is `hello`
 3. At your terminal, run `export FLASK_ENV=development`
 Explain: this is the environment variable called FLASK_ENV. Its value is `development`
 
-
 4. Last but not least, run `flask run`
 
 You will see
@@ -29,5 +28,8 @@ You will get a hello world!
 
 ===
 
-
 To get the actual blog, do every steps the same but change step 2 to `export FLASK_APP=app` to run the `app.py`. Can you find it? 
+
+## Tutorial
+
+[How To Make a Web Application Using Flask in Python 3](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
